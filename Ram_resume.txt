@@ -1,0 +1,19 @@
+Ethan Hunt
+Email: ethan.hunt@email.com
+
+PROFESSIONAL SUMMARY:
+Cybersecurity Specialist with experience in network defense, vulnerability assessment, and security compliance.
+
+SKILLS:
+- Security Tools: Wireshark, Metasploit, Nmap, Splunk
+- OS & Scripting: Linux/Unix systems, Bash scripting, Python (basic security scripts)
+- Networking: TCP/IP, Firewalls, VPNs, Penetration Testing
+
+EXPERIENCE:
+Security Analyst | CyberGuard (2023 - Present)
+- Monitored network traffic using Splunk and Wireshark to detect security threats.
+- Performed penetration testing and vulnerability scans on enterprise infrastructure.
+- Automated security log parsing using basic Python and Bash scripts.
+
+EDUCATION:
+Bachelor of Science in Cybersecurity & Network Administration

@@ -1,0 +1,19 @@
+Diana Prince
+Email: diana.p@email.com
+
+PROFESSIONAL SUMMARY:
+Creative Frontend Developer with 4 years of experience crafting interactive, responsive web applications and user interfaces.
+
+SKILLS:
+- Frontend Technologies: JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- Design & State: Redux, Figma, UI/UX Design principles
+- Tools: Git, Webpack, npm, Jest testing
+
+EXPERIENCE:
+Frontend Developer | WebStudio (2022 - Present)
+- Developed modern user interfaces using React.js and TypeScript.
+- Optimized frontend asset loading performance and implemented responsive designs with Tailwind CSS.
+- Integrated REST APIs with React components for dynamic web applications.
+
+EDUCATION:
+Bachelor of Arts in Web Design & Software Development

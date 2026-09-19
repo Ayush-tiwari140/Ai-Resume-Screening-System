@@ -1,0 +1,20 @@
+Bob Smith
+Email: bob.smith@email.com
+
+PROFESSIONAL SUMMARY:
+Data Analyst with 3 years of experience in data visualization, SQL queries, and predictive modeling. Strong background in statistical analysis and reporting.
+
+SKILLS:
+- Core Languages: Python, SQL, R, HTML
+- Data Analysis: pandas, numpy, Scikit-Learn (basic regression & decision trees)
+- Visualization: Tableau, PowerBI, Excel, Matplotlib
+- Database Management: MySQL, PostgreSQL
+
+EXPERIENCE:
+Data Analyst | Insights Inc. (2023 - Present)
+- Executed complex SQL queries to extract data for business intelligence dashboards.
+- Utilized Python (pandas, numpy) to perform data cleaning and feature engineering on transactional records.
+- Built basic predictive machine learning models in Scikit-Learn to estimate customer churn.
+
+EDUCATION:
+Bachelor of Science in Data Science & Statistics

@@ -1,0 +1,24 @@
+Alice Vance
+Email: alice.vance@email.com | Portfolio: github.com/alicevance
+
+PROFESSIONAL SUMMARY:
+Senior Machine Learning Engineer with 5+ years of experience specializing in Natural Language Processing (NLP), text mining, and AI model deployment.
+
+SKILLS:
+- Languages & Tools: Python, SQL, Docker, Git, REST APIs
+- ML & NLP Frameworks: PyTorch, TensorFlow, Scikit-Learn, NLTK, Transformers, TF-IDF
+- Data Engineering: pandas, numpy, Web Scraping, Feature Engineering
+- Cloud & Infrastructure: AWS, FastAPI, Flask, CI/CD pipelines
+
+EXPERIENCE:
+Senior AI Engineer | DataTech Solutions (2023 - Present)
+- Designed and deployed end-to-end NLP classification pipelines using Python, PyTorch, and Scikit-Learn.
+- Built automated text vectorization engines utilizing TF-IDF and cosine similarity for document searching.
+- Containerized ML microservices using Docker and deployed REST APIs on AWS via FastAPI.
+
+Data Scientist | Analytics Corp (2021 - 2023)
+- Processed and cleaned large unstructured text datasets using pandas, numpy, and regular expressions.
+- Automated web scraping routines to aggregate data for sentiment analysis models.
+
+EDUCATION:
+Master of Science in Computer Science (Artificial Intelligence Focus)
